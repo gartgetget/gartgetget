@@ -8,7 +8,7 @@
 | IDE            | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | | IDE            | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | Language       | ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript&logoColor=yellow) | | Framework      | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | Cloud          | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  | | Language        | ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript&logoColor=yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-<div id = "up" align-items = "center">
-<img  alt="code" width="400" position = "center"    src="code.gif"/>
+<div id = "up" align = "center">
+<img  alt="code" width="500" position = "center"    src="code.gif"/>
 </div>
 ![](grid-snake.svg)
