@@ -11,4 +11,5 @@
 <div id = "up" align = "center">
 <img  alt="code" width="500" position = "center"    src="code.gif"/>
 </div>
+
 ![](grid-snake.svg)
